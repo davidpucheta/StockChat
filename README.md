@@ -4,6 +4,7 @@ Stock Chat App
 ## How to Run 
 Clone or donwload the repository, open in Visual Studio or VS Code.  
 Make sure the startup project is pointing to ``StockChat.server``  
+Build and run the app.
 
 ## Using the app ##
 Choose `Chat`in the left nav, enter a name and start chatting.
